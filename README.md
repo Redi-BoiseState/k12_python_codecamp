@@ -14,5 +14,12 @@ Read in, describe, and summarize attributes of an environmental dataset
 ### Example Educational Standard Alignment
 * SSSS
 
+### Schedule (Tentative)
+
+| Time | Topic | Key Concepts | 
+| ---------- | --------------- | -------------------- |
+| 0800-0815  | Workshop introductions, logistics, overview | | 
+| 0815-0900  | Introduction to Jupyter Notebooks | Interactive programming, Narrated live-coding |
+
 
 
