@@ -16,7 +16,7 @@ Read in, describe, and summarize attributes of an environmental dataset
 
 ### Schedule (Tentative)
 
-| Start  | End  | Topic | Key Concepts | 
+| Time Start  | Time End  | Topic | Key Concepts | 
 | ---------- | ---------- |  --------------- | -------------------- |
 | 0800  | 0815  | Workshop introductions, logistics, overview | | 
 | 0815  | 0900  | Introduction to Jupyter Notebooks | Interactive programming, Narrated live-coding |
@@ -29,6 +29,10 @@ Read in, describe, and summarize attributes of an environmental dataset
 | 1500  | 1515  | Break | |
 | 1515  | 1700  | Brainstorming and prototyping activities in small groups | Data is everywhere |
 
+### Prerequisites
+* A laptop
+* Interest in learning/teaching data science through the environment
+* That’s really it!
 
 
 
